@@ -1,0 +1,19 @@
+{
+  "name": "wordcount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wordcount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludralph/wordcountlab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ludralph/wordcountlab/issues"
+  },
+  "homepage": "https://github.com/ludralph/wordcountlab#readme"
+}
